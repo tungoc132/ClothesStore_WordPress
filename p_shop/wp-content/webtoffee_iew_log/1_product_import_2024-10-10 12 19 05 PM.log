@@ -1,0 +1,115 @@
+10-10-2024 @ 19:19:05 - ---[ New import started at 2024-10-10 12:19:05 ] PHP Memory: 128 MB, WP Memory: 40 MB
+10-10-2024 @ 19:19:05 - Preparing for import.
+10-10-2024 @ 19:19:05 - Row :1 - Parsing item.
+10-10-2024 @ 19:19:05 - Row :1 - Parsing failed. Reason: Basic version does not support import of variable products.
+10-10-2024 @ 19:19:05 - Row :2 - Parsing item.
+10-10-2024 @ 19:19:05 - Row :2 - Parsing failed. Reason: Basic version does not support import of variable products.
+10-10-2024 @ 19:19:05 - Row :3 - Parsing item.
+10-10-2024 @ 19:19:05 - Row :3 - Parsing failed. Reason: Importing Product(ID) conflicts with an existing post. ID: 46
+10-10-2024 @ 19:19:05 - Row :4 - Parsing item.
+10-10-2024 @ 19:19:05 - Row :4 - Parsing failed. Reason: Importing Product(ID) conflicts with an existing post. ID: 47
+10-10-2024 @ 19:19:05 - Row :5 - Parsing item.
+10-10-2024 @ 19:19:05 - Row :5 - Parsing failed. Reason: Importing Product(ID) conflicts with an existing post. ID: 48
+10-10-2024 @ 19:19:05 - Row :6 - Parsing item.
+10-10-2024 @ 19:19:05 - Importing as new product ID:644
+10-10-2024 @ 19:19:05 - Row :6 - Processing item.
+10-10-2024 @ 19:19:05 - Found simple product object. ID:644
+10-10-2024 @ 19:19:05 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/belt-2.jpg
+10-10-2024 @ 19:19:07 - Attachment ID:645
+10-10-2024 @ 19:19:07 - Row :6 - Product imported successfully.
+10-10-2024 @ 19:19:07 - Row :7 - Parsing item.
+10-10-2024 @ 19:19:07 - Importing as new product ID:646
+10-10-2024 @ 19:19:07 - Row :7 - Processing item.
+10-10-2024 @ 19:19:07 - Found simple product object. ID:646
+10-10-2024 @ 19:19:07 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/cap-2.jpg
+10-10-2024 @ 19:19:08 - Attachment ID:647
+10-10-2024 @ 19:19:08 - Row :7 - Product imported successfully.
+10-10-2024 @ 19:19:08 - Row :8 - Parsing item.
+10-10-2024 @ 19:19:08 - Importing as new product ID:648
+10-10-2024 @ 19:19:08 - Row :8 - Processing item.
+10-10-2024 @ 19:19:08 - Found simple product object. ID:648
+10-10-2024 @ 19:19:08 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/sunglasses-2.jpg
+10-10-2024 @ 19:19:09 - Attachment ID:649
+10-10-2024 @ 19:19:09 - Row :8 - Product imported successfully.
+10-10-2024 @ 19:19:09 - Row :9 - Parsing item.
+10-10-2024 @ 19:19:09 - Importing as new product ID:64
+10-10-2024 @ 19:19:09 - Row :9 - Processing item.
+10-10-2024 @ 19:19:09 - Found simple product object. ID:64
+10-10-2024 @ 19:19:09 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/hoodie-with-pocket-2.jpg
+10-10-2024 @ 19:19:10 - Attachment ID:650
+10-10-2024 @ 19:19:10 - Row :9 - Product imported successfully.
+10-10-2024 @ 19:19:10 - Row :10 - Parsing item.
+10-10-2024 @ 19:19:10 - Importing as new product ID:651
+10-10-2024 @ 19:19:10 - Row :10 - Processing item.
+10-10-2024 @ 19:19:10 - Found simple product object. ID:651
+10-10-2024 @ 19:19:10 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/hoodie-with-zipper-2.jpg
+10-10-2024 @ 19:19:10 - Attachment ID:652
+10-10-2024 @ 19:19:10 - Row :10 - Product imported successfully.
+10-10-2024 @ 19:19:10 - Row :11 - Parsing item.
+10-10-2024 @ 19:19:10 - Importing as new product ID:653
+10-10-2024 @ 19:19:10 - Row :11 - Processing item.
+10-10-2024 @ 19:19:10 - Found simple product object. ID:653
+10-10-2024 @ 19:19:10 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/long-sleeve-tee-2.jpg
+10-10-2024 @ 19:19:10 - Attachment ID:654
+10-10-2024 @ 19:19:11 - Row :11 - Product imported successfully.
+10-10-2024 @ 19:19:11 - Row :12 - Parsing item.
+10-10-2024 @ 19:19:11 - Importing as new product ID:655
+10-10-2024 @ 19:19:11 - Row :12 - Processing item.
+10-10-2024 @ 19:19:11 - Found simple product object. ID:655
+10-10-2024 @ 19:19:11 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/polo-2.jpg
+10-10-2024 @ 19:19:11 - Attachment ID:656
+10-10-2024 @ 19:19:11 - Row :12 - Product imported successfully.
+10-10-2024 @ 19:19:11 - Row :13 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :13 - Parsing failed. Reason: Importing Product(ID) conflicts with an existing post. ID: 73
+10-10-2024 @ 19:19:11 - Row :14 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :14 - Parsing failed. Reason: Invalid product type simple, downloadable, virtual
+10-10-2024 @ 19:19:11 - Row :15 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :15 - Parsing failed. Reason: Basic version does not support import of variation products.
+10-10-2024 @ 19:19:11 - Row :16 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :16 - Parsing failed. Reason: Basic version does not support import of variation products.
+10-10-2024 @ 19:19:11 - Row :17 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :17 - Parsing failed. Reason: Basic version does not support import of variation products.
+10-10-2024 @ 19:19:11 - Row :18 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :18 - Parsing failed. Reason: Basic version does not support import of variation products.
+10-10-2024 @ 19:19:11 - Row :19 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :19 - Parsing failed. Reason: Basic version does not support import of variation products.
+10-10-2024 @ 19:19:11 - Row :20 - Parsing item.
+10-10-2024 @ 19:19:11 - Row :20 - Parsing failed. Reason: Basic version does not support import of variation products.
+10-10-2024 @ 19:19:11 - Row :21 - Parsing item.
+10-10-2024 @ 19:19:11 - Importing as new product ID:657
+10-10-2024 @ 19:19:11 - Row :21 - Processing item.
+10-10-2024 @ 19:19:11 - Found simple product object. ID:657
+10-10-2024 @ 19:19:11 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/t-shirt-with-logo-1.jpg
+10-10-2024 @ 19:19:12 - Attachment ID:658
+10-10-2024 @ 19:19:12 - Row :21 - Product imported successfully.
+10-10-2024 @ 19:19:12 - Row :22 - Parsing item.
+10-10-2024 @ 19:19:12 - Importing as new product ID:659
+10-10-2024 @ 19:19:12 - Row :22 - Processing item.
+10-10-2024 @ 19:19:12 - Found simple product object. ID:659
+10-10-2024 @ 19:19:12 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/beanie-with-logo-1.jpg
+10-10-2024 @ 19:19:12 - Attachment ID:660
+10-10-2024 @ 19:19:12 - Row :22 - Product imported successfully.
+10-10-2024 @ 19:19:12 - Row :23 - Parsing item.
+10-10-2024 @ 19:19:12 - Importing as new product ID:661
+10-10-2024 @ 19:19:12 - Row :23 - Processing item.
+10-10-2024 @ 19:19:12 - Found grouped product object. ID:661
+10-10-2024 @ 19:19:12 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/logo-1.jpg
+10-10-2024 @ 19:19:13 - Attachment ID:662
+10-10-2024 @ 19:19:13 - Setting Gallery Images.
+10-10-2024 @ 19:19:13 - Image URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/beanie-with-logo-1.jpg
+10-10-2024 @ 19:19:13 - Attachment ID:660
+10-10-2024 @ 19:19:13 - Image URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/t-shirt-with-logo-1.jpg
+10-10-2024 @ 19:19:13 - Attachment ID:658
+10-10-2024 @ 19:19:13 - Image URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/hoodie-with-logo-2.jpg
+10-10-2024 @ 19:19:13 - Attachment ID:663
+10-10-2024 @ 19:19:13 - Row :23 - Product imported successfully.
+10-10-2024 @ 19:19:13 - Row :24 - Parsing item.
+10-10-2024 @ 19:19:13 - Importing as new product ID:664
+10-10-2024 @ 19:19:13 - Row :24 - Processing item.
+10-10-2024 @ 19:19:13 - Found external product object. ID:664
+10-10-2024 @ 19:19:13 - Setting Featured Image. URL:https://woocommercecore.mystagingwebsite.com/wp-content/uploads/2017/12/pennant-1.jpg
+10-10-2024 @ 19:19:13 - Attachment ID:665
+10-10-2024 @ 19:19:13 - Row :24 - Product imported successfully.
+10-10-2024 @ 19:19:13 - Row :25 - Parsing item.
+10-10-2024 @ 19:19:13 - Row :25 - Parsing failed. Reason: Basic version does not support import of variation products.
+10-10-2024 @ 19:19:13 - ---[ Import ended at 2024-10-10 12:19:13]---
