@@ -1,2 +1,0 @@
-# ClothesStore_WordPress
- 
